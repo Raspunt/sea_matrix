@@ -1,7 +1,7 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
-import { animate } from './render.ts'
+import { animate } from './game/scene.ts'
 
 
 
